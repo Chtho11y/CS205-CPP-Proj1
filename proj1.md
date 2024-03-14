@@ -793,7 +793,7 @@ void cmd_run(){
 
     
 
-    <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/0.png" style="zoom:60%;float:left" />
+    <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/0.png" style="zoom:60%;float:left" />  
 
     
 
@@ -801,7 +801,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/1.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/1.png" style="zoom:60%;float:left" />  
 
    
 
@@ -809,7 +809,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/10.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/10.png" style="zoom:60%;float:left" />  
 
    
 
@@ -817,7 +817,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/2.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/2.png" style="zoom:60%;float:left" />  
 
    
 
@@ -825,7 +825,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/5.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/5.png" style="zoom:60%;float:left" />  
 
    
 
@@ -833,7 +833,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/6.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/6.png" style="zoom:60%;float:left" />  
 
    
 
@@ -843,7 +843,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/4.png" style="zoom:67%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/4.png" style="zoom:67%;float:left" />  
 
    
 
@@ -853,7 +853,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/7.png" style="zoom:67%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/7.png" style="zoom:67%;float:left" />  
 
    
 
@@ -861,7 +861,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/3.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/3.png" style="zoom:60%;float:left" />  
 
    
 
@@ -875,7 +875,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/8.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/8.png" style="zoom:60%;float:left" />  
 
    
 
@@ -883,7 +883,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/14.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/14.png" style="zoom:60%;float:left" />  
 
    
 
@@ -893,7 +893,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/15.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/15.png" style="zoom:60%;float:left" />  
 
    
 
@@ -913,7 +913,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/17.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/17.png" style="zoom:60%;float:left" />  
 
    
 
@@ -927,7 +927,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/16.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/16.png" style="zoom:60%;float:left" />  
 
    
 
@@ -939,7 +939,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/11.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/11.png" style="zoom:60%;float:left" />  
 
    
 
@@ -947,7 +947,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/12.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/12.png" style="zoom:60%;float:left" />  
 
    
 
@@ -955,7 +955,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/9.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/9.png" style="zoom:60%;float:left" />  
 
    
 
@@ -963,7 +963,7 @@ void cmd_run(){
 
    
 
-   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/13.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/13.png" style="zoom:60%;float:left" />  
 
    
 
