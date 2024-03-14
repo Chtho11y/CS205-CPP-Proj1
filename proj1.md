@@ -790,43 +790,43 @@ void cmd_run(){
 
    ~~是的，小数点前后全省略也不是不行。~~
 
-   <img src="report/0.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/0.png" style="zoom:60%;float:left" />
 
 1. **二元四则运算**
 
-   <img src="report/1.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/1.png" style="zoom:60%;float:left" />
 
    比较运算返回布尔值，可以隐式转换为数值1或0
 
-   <img src="report/10.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/10.png" style="zoom:60%;float:left" />
 
    命令行调用：
 
-   <img src="report/2.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/2.png" style="zoom:60%;float:left" />
 
 2. **混合表达式**
 
-   <img src="report/5.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/5.png" style="zoom:60%;float:left" />
 
    命令行调用
 
-   <img src="report/6.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/6.png" style="zoom:60%;float:left" />
 
    （事实上1<2<3并不是数学上的连续比较，只是true=1恰好小于3罢了）
 
 3. **高精度计算**
 
-   <img src="report/4.png" style="zoom:67%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/4.png" style="zoom:67%;float:left" />
 
 4. **函数调用**
 
    项目提供了 ceil, floor, round, max, min 等五个数学函数和打印函数 print。
 
-   <img src="report/7.png" style="zoom:67%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/7.png" style="zoom:67%;float:left" />
 
    命令行调用：
 
-   <img src="report/3.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/3.png" style="zoom:60%;float:left" />
 
 4. **变量定义及赋值、修改**
 
@@ -836,17 +836,17 @@ void cmd_run(){
 
    如 `a=1+b=1+1` 会被解释为 `a=(1+(b=(1+1)))`
 
-   <img src="report/8.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/8.png" style="zoom:60%;float:left" />
 
    变量本身没有类型，它可以保存任何值，比如函数。
 
-   <img src="report/14.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/14.png" style="zoom:60%;float:left" />
 
 5. **变量的复合运算**
 
    变量可以像一般数值一样参与计算。
 
-   <img src="report/15.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/15.png" style="zoom:60%;float:left" />
 
 6. **预定义变量**
 
@@ -862,7 +862,7 @@ void cmd_run(){
 
    `set_fixflag(bool flag)` 为设置输出是否使用定点表示，设为否则总采用科学计数，否则仅对 $10^{5000}$ 以上的数使用科学计数。 
 
-   <img src="report/17.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/17.png" style="zoom:60%;float:left" />
 
    `clear(void)` 清空输出
 
@@ -872,7 +872,7 @@ void cmd_run(){
 
    此外，变量 `last` 表示上一次运算的结果，初始为 0，运算无结果则不变，变量 `true/false` 为布尔值真/假。
 
-   <img src="report/16.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/16.png" style="zoom:60%;float:left" />
 
 7. **异常处理**
 
@@ -880,19 +880,19 @@ void cmd_run(){
 
    与一般 inf 和 NaN 计算方法相同。
 
-   <img src="report/11.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/11.png" style="zoom:60%;float:left" />
 
    类型异常：
 
-   <img src="report/12.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/12.png" style="zoom:60%;float:left" />
 
    表达式错误：
 
-   <img src="report/9.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/9.png" style="zoom:60%;float:left" />
 
    变量错误：
 
-   <img src="report/13.png" style="zoom:60%;float:left" />
+   <img src="https://github.com/Chtho11y/CS205-CPP-Proj1/blob/main/report/13.png" style="zoom:60%;float:left" />
 
 ## Part4 疑难与解决
 
