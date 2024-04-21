@@ -1,5 +1,5 @@
 # CS205-CPP-Proj1
-Yu Shiqi CPP project 1.
+Yu Shiqi CPP project 1. (95/100 pts)
 
 简易计算器，支持四则运算及变量定义、函数调用。
 
